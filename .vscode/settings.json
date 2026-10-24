@@ -1,0 +1,14 @@
+{
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "github.copilot.enable": {
+        "*": false
+    },
+    "r.lsp.promptToInstall": false
+}
